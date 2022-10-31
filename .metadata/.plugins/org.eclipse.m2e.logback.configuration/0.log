@@ -465,3 +465,19 @@
 2022-10-31 12:56:40,858 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-10-31 12:56:40,997 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\main\resources
 2022-10-31 12:56:41,001 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 12:56:41,041 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\test\resources
+2022-10-31 13:05:51,223 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:05:51,411 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\main\resources
+2022-10-31 13:05:51,415 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:05:51,463 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\test\resources
+2022-10-31 13:07:19,720 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:07:19,732 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\main\resources
+2022-10-31 13:07:19,734 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:07:19,740 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\test\resources
+2022-10-31 13:14:26,465 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:14:26,538 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\main\resources
+2022-10-31 13:14:26,541 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:14:26,574 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\test\resources
+2022-10-31 13:18:49,336 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-31 13:18:49,348 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DanDo\Downloads\UTP Tercer Año\Eclipse\Primera_Prueba\src\main\resources
+2022-10-31 13:18:49,354 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
